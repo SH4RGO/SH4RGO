@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SH4RGO
-- 👀 I’m interested in CyberSecurity
+- 👀 I’m interested in Front-End Development
 - 🌱 I’m currently learning Python Language
 
 <!---
