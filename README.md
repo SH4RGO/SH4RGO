@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SH4RGO
 - 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning Python Language
+- 🌱 I’m currently learning Html Language
 
 <!---
 SH4RGO/SH4RGO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
